@@ -1,0 +1,13 @@
+.idea
+.cache*
+.settings/
+.vscode/
+.metals/
+.project
+.classpath
+target/
+bin/
+spark-warehouse/
+*.pipeline
+*.model
+.ipynb_checkpoints/
